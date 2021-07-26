@@ -2,3 +2,5 @@ Hola Vale probando git por primera vez
 Mi nombre es: Vale
 Mi edad es: 36 años
 Cargo es: Ingeniera
+
+También hay una forma de hacerlo un poco más “ruda”: usando el comando git reset. En este caso, no solo “volvemos en el tiempo”, sino que borramos los cambios que hicimos después de este commit.
